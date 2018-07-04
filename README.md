@@ -1,2 +1,4 @@
 # iPre-Excel-analyzer
-Programa usado para analizar planillas de excel y obtener estadísticas varias.
+Program used for education Excel files Data Mining.
+
+This was part of an investigation: iPre with Miguel Nussbaum at 2017.
